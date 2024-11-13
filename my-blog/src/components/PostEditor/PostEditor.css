@@ -1,0 +1,65 @@
+.post-editor {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+  
+  input[type="text"],
+  textarea,
+  select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  input[type="text"].error,
+  textarea.error {
+    border-color: #e74c3c;
+  }
+  
+  .error-message {
+    color: #e74c3c;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+  }
+  
+  .checkbox label {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox input {
+    margin-right: 0.5rem;
+  }
+  
+  .submit-button {
+    padding: 0.75rem 1.5rem;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .submit-button:hover {
+    background-color: #2980b9;
+  }
+  
