@@ -93,3 +93,28 @@ The App.jsx file was updated to include the Header and BlogList components, wher
 
 Desktop view - (![alt text](Screenshot2.png))
 Mobile view - (![alt text](Screenshot3.png))
+
+............................................................................
+
+Testing Scenarios
+
+Like button:
+
+Single click behavior
+Multiple clicks
+Visual feedback
+
+Comments:
+
+Empty comment validation
+Long comment display
+Timestamp formatting
+
+
+Read More:
+
+Short content behavior
+Long content truncation
+Toggle functionality
+
+Testing image - (![alt text](Screenshot4.png))
