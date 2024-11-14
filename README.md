@@ -118,3 +118,22 @@ Long content truncation
 Toggle functionality
 
 Testing image - (![alt text](Screenshot4.png))
+
+
+.............................................................................................................
+
+Assignment - 3
+
+Nothing has changed in Assignment -3. 
+It will show as it is in Assignment - 2.
+
+
+.............................................................................................................
+
+Assignment - 4
+
+After adding all the given files and updating the BlogList.jsx file it will show blank page.
+
+
+
+.............................................................................................................
