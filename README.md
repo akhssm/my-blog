@@ -94,7 +94,7 @@ The App.jsx file was updated to include the Header and BlogList components, wher
 Desktop view - (![alt text](Screenshot2.png))
 Mobile view - (![alt text](Screenshot3.png))
 
-............................................................................
+................................................................................................................
 
 Testing Scenarios
 
@@ -136,7 +136,7 @@ After adding all the given files and updating the BlogList.jsx file it will show
 
 
 
-.............................................................................................................
+................................................................................................................
 
 
 Assignment - 5
@@ -144,7 +144,7 @@ Assignment - 5
 After adding all the given files and updating the given files it will show blank page.
 
 
-.............................................................................................................
+................................................................................................................
 
 
 Assignment - 6
@@ -152,7 +152,7 @@ Assignment - 6
 Created all the hook files 
 
 
-.............................................................................................................
+................................................................................................................
 
 
 Assignment - 7
@@ -160,7 +160,21 @@ Assignment - 7
 Created all the given context files
 
 
-.............................................................................................................
+................................................................................................................
 
+
+
+Assignment - 8
 
 Created all the given files and imported necessary module.
+
+................................................................................................................
+
+
+Assignment - 9
+
+I am experiencing an import resolution error when trying to use the ErrorBoundary component in App.jsx. The Vite development server reports that it cannot locate the component, resulting in a failure to compile and run the application.
+
+This error indicates that Vite could not locate the ErrorBoundary component at the path specified in the App.jsx file. This could result from several possible issues, such as an incorrect path, missing file extension, case sensitivity mismatch, or Vite caching.
+
+Errors - ![alt text](Screenshot5.png)
