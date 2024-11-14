@@ -1,0 +1,36 @@
+/* LoadingState.css */
+
+.loading-state {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .post-skeleton {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    padding: 1rem;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .post-skeleton__header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .post-skeleton__meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+  
+  .post-skeleton__content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  
